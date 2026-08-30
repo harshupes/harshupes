@@ -46,7 +46,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Containerisation-and-DevOPs](https://github.com/harshupes/Containerisation-and-DevOPs) | Coursework and content on Containerisation & DevOps concepts | Docker & Kubernetes |
-| [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | HTML |
+| [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | Flask & HTML,CSS |
 | [diwali-countdown](https://github.com/harshupes/diwali-countdown) | A festive countdown timer built for Diwali | CSS |
 | [HADES](https://github.com/harshupes/HADES) | Multi-Protocol Honeypots | Cyber Security and Cloud |
 | [JDBS Project](https://github.com/harshupes/JDBC-Projects) | Project on Java | JDBC |
