@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Harsh Vishwakarma 👋</h1>
-<h3 align="center">B.Tech CSE Student | Exploring AI/ML, Web Dev & DevOps</h3>
+<h3 align="center">B.Tech CSE Student | Exploring Cloud, Web Dev & DevOps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;Learning+DevOps+%26+Containerisation;Always+Building+Something+New" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 - 🎓 Currently pursuing **B.Tech in Computer Science Engineering**
-- 💡 Exploring **Artificial Intelligence & Machine Learning**
+- 💡 Exploring **AWS Cloud**
 - 🛠️ Learning **Containerisation & DevOps**
 - 🌱 Building projects in Python, Java, and Web Development
 - 📫 Reach me on GitHub — always open to collaborate!
@@ -45,12 +45,12 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [Containerisation-and-DevOPs](https://github.com/harshupes/Containerisation-and-DevOPs) | Coursework and content on containerisation & DevOps concepts | Ruby |
+| [Containerisation-and-DevOPs](https://github.com/harshupes/Containerisation-and-DevOPs) | Coursework and content on Containerisation & DevOps concepts | Docker & Kubernetes |
 | [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | HTML |
 | [diwali-countdown](https://github.com/harshupes/diwali-countdown) | A festive countdown timer built for Diwali | CSS |
-| [ASSIGNMENT-1-AIML](https://github.com/harshupes/ASSIGNMENT-1-AIML) | AI/ML coursework assignment | Jupyter Notebook |
-| [AIML_ASSIGNMENT-2](https://github.com/harshupes/AIML_ASSIGNMENT-2) | AI/ML coursework assignment | Jupyter Notebook |
-| [Java-Experiments-UPES](https://github.com/harshupes/Java-Experiments-UPES) | Java lab experiments from university coursework | Java |
+| [HADES](https://github.com/harshupes/HADES) | Multi-Protocol Honeypots | Cyber Security and Cloud |
+| [JDBS Project](https://github.com/harshupes/JDBC-Projects) | Project on Java | JDBC |
+| [IMPACT 2025](https://github.com/harshupes/IMPACT-2025) | Published Research Paper | Quantum Computing |
 
 ---
 
