@@ -1,16 +1,78 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Harsh Vishwakarma 👋</h1>
+<h3 align="center">B.Tech CSE Student | Exploring AI/ML, Web Dev & DevOps</h3>
 
-<!--
-**harshupes/harshupes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;AI%2FML+Enthusiast;Learning+DevOps+%26+Containerisation;Always+Building+Something+New" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/harshupes">
+    <img src="https://komarev.com/ghpvc/?username=harshupes&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  </a>
+  <img src="https://img.shields.io/github/followers/harshupes?label=Followers&style=flat&color=2E9EF7" alt="followers" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🎓 Currently pursuing **B.Tech in Computer Science Engineering**
+- 💡 Exploring **Artificial Intelligence & Machine Learning**
+- 🛠️ Learning **Containerisation & DevOps**
+- 🌱 Building projects in Python, Java, and Web Development
+- 📫 Reach me on GitHub — always open to collaborate!
+
+---
+
+### 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [Containerisation-and-DevOPs](https://github.com/harshupes/Containerisation-and-DevOPs) | Coursework and content on containerisation & DevOps concepts | Ruby |
+| [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | HTML |
+| [diwali-countdown](https://github.com/harshupes/diwali-countdown) | A festive countdown timer built for Diwali | CSS |
+| [ASSIGNMENT-1-AIML](https://github.com/harshupes/ASSIGNMENT-1-AIML) | AI/ML coursework assignment | Jupyter Notebook |
+| [AIML_ASSIGNMENT-2](https://github.com/harshupes/AIML_ASSIGNMENT-2) | AI/ML coursework assignment | Jupyter Notebook |
+| [Java-Experiments-UPES](https://github.com/harshupes/Java-Experiments-UPES) | Java lab experiments from university coursework | Java |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshupes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="harshupes's GitHub stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshupes&theme=tokyonight&hide_border=true" alt="harshupes's streak stats" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshupes&layout=compact&theme=tokyonight&hide_border=true" alt="harshupes's top languages" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://github.com/harshupes">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">⭐️ From <a href="https://github.com/harshupes">harshupes</a> — thanks for stopping by!</p>
