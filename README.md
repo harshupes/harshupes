@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering**
+- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** - 7.92 CGPA ( till sem 6 )
 - 💡 Exploring **AWS Cloud**
 - 🛠️ Learning **Containerisation & DevOps**
 - 🌱 Building projects in Python, Java, and Web Development
@@ -49,7 +49,7 @@
 | [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | Flask & HTML,CSS |
 | [diwali-countdown](https://github.com/harshupes/diwali-countdown) | A festive countdown timer built for Diwali | CSS |
 | [HADES](https://github.com/harshupes/HADES) | Multi-Protocol Honeypots | Cyber Security and Cloud |
-| [JDBS Project](https://github.com/harshupes/JDBC-Projects) | Project on Java | JDBC |
+| [JDBC Project](https://github.com/harshupes/JDBC-Projects) | Project on Java | JDBC |
 | [IMPACT 2025](https://github.com/harshupes/IMPACT-2025) | Published Research Paper | Quantum Computing |
 
 ---
