@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Exploring Cloud, Web Dev & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Cloud+Enthusiast;+Learning+DevOps+%26+Containerisation+%26+AI%2FML;Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Cloud+Enthusiast;Learning+DevOps+%26+Containerisation+%26+AI%2FML;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** - 7.92 CGPA ( till sem 6 )
+- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** — 7.92 CGPA (till sem 6)
 - 💡 Exploring **AWS Cloud**
 - 🛠️ Learning **Containerisation & DevOps**
 - 🌱 Building projects in Python, Java, and Web Development
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
@@ -46,14 +47,13 @@
 | Project | Description | Tech |
 |---|---|---|
 | [Containerisation-and-DevOPs](https://github.com/harshupes/Containerisation-and-DevOPs) | Coursework and content on Containerisation & DevOps concepts | Docker & Kubernetes |
-| [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | Flask & HTML,CSS |
+| [Text_Summarizer](https://github.com/harshupes/Text_Summarizer) | A tool to summarize text content | Flask & HTML, CSS |
 | [diwali-countdown](https://github.com/harshupes/diwali-countdown) | A festive countdown timer built for Diwali | CSS |
 | [HADES](https://github.com/harshupes/HADES) | Multi-Protocol Honeypots | Cyber Security and Cloud |
 | [JDBC Project](https://github.com/harshupes/JDBC-Projects) | Project on Java | JDBC |
 | [IMPACT 2025](https://github.com/harshupes/IMPACT-2025) | Published Research Paper | Quantum Computing |
 
 ---
-
 
 ### 🤝 Connect with Me
 
