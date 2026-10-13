@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Exploring Cloud, Web Dev & DevOps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Cloud+Enthusiast;Learning+DevOps+%26+Containerisation+AI%2FML;Always+Building+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+CSE+Student;Cloud+Enthusiast;Learning+DevOps+%26+Containerisation+%26+AI%2FML;Always+Building+Something+New" alt="Typing SVG" />
 </p>
 
 <p align="center">
